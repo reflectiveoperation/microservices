@@ -1,0 +1,3 @@
+[submodule "subm-application-config"]
+	path = subm-application-config
+	url = /Users/cristianperez/Documents/spring-cloud-sample/application-config/
